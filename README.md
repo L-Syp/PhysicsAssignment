@@ -15,7 +15,7 @@ G is the gravitational constant. In this task it is assumed that G is equal to 1
 
 # Code explanation
 
-In the first six lines of the _main()_ method variables are decelerated.
+In the first six lines of the _main()_ method variables are declared.
 
 Variable named _universe_ is a two-dimensional array of _Cell_ type which represents a grid, dimensions of the array are defined as a constant in a _Universe.h_ header to allow a programmer to increase grid size and therefore accuracy of calculations if needed.
 
